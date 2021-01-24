@@ -3,8 +3,8 @@
 
 ##Required Modules :
 
-1. OpenCV
-  pip install opencv
+##1. OpenCV
+##  pip install opencv
 2.mouse
   pip install mouse
 3.numpy
