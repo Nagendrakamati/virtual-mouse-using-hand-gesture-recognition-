@@ -1,7 +1,7 @@
 # virtual-mouse-using-hand-gesture-recognition-
-Implementing a virtual mouse using gesture recognition .
+##Implementing a virtual mouse using gesture recognition .
 
-Required Modules :
+##Required Modules :
 
 1. OpenCV
   pip install opencv
